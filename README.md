@@ -1,61 +1,39 @@
 # Hi, I'm Álvaro Gómez 👋
 
-Welcome to my GitHub profile 🚀  
-I'm a developer passionate about technology, continuous learning, and building projects that mix creativity with code.  
-I love creating useful solutions, experimenting with new tools, and sharing knowledge with the community.  
+I'm a Higher Technician in Web Application Development passionate about turning ideas into reliable and user intuitive digital experiences.
 
----
+🚀 I’m currently focused on Angular and Spring Boot, building full-stack applications while continuously expanding my skills, exploring new tools, and combining creativity with technology to deliver impactful projects.
+
+📫 Reach me at: [alvarogd548@gmail.com](mailto:alvarogd548@gmail.com)
 
 ## 📂 Portfolio
-- 🌐 [My Portfolio Website](https://your-portfolio.com)
----
 
-### 🔗 Featured Projects
-- [Project 1](https://github.com/yourusername/project1) — Short description.  
-- [Project 2](https://github.com/yourusername/project2) — Short description.  
-- [Project 3](https://github.com/yourusername/project3) — Short description.  
-
-### 🧩 Other Projects
-- [Side Project 1](https://github.com/yourusername/side1)  
-- [Side Project 2](https://github.com/yourusername/side2)  
+Take a look at my portfolio to learn more about my work
+- 🌐 [My Portfolio](https://alvaro-gmez.github.io/Porfolio-AlvaroGomez/)
 
 ---
 
 ## 🛠️ Tech Stack
----
-
 
 ### 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,bottstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,astro,angular,tailwind,bottstrap)](https://skillicons.dev)
 
 ### ⚙️ Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,java,php,springboot,nodejs,mysql)](https://skillicons.dev)
 
 ### 🛠️ Tools & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,figma,jira,notion,postman,git,docker)](https://skillicons.dev)
 
+---
+
+### 👨🏻‍💻 Projects
+- [Project 1](https://github.com/yourusername/project1) — Short description.  
+
+
+---
 
 ## 📊 GitHub Stats
----
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
@@ -71,10 +49,10 @@ I love creating useful solutions, experimenting with new tools, and sharing know
 ---
 
 ## 📫 Contact
----
-- 🌐 Portfolio website: [your-portfolio.com](https://your-portfolio.com)  
+
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 📧 Email: [youremail@domain.com](mailto:youremail@domain.com)  
+- 📧 Email: [youremail@domain.com](mailto:youremail@domain.com)
+- Instagram:  
 
 ---
 
