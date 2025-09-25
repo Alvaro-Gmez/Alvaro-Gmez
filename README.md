@@ -8,8 +8,8 @@ I'm a Higher Technician in Web Application Development passionate about turning 
 
 ## 📂 Portfolio
 
-Take a look at my portfolio to learn more about my work<br/><br/>
-- 🌐[My Portfolio](https://alvaro-gmez.github.io/Porfolio-AlvaroGomez/)
+Take a look at my portfolio to learn more about my work<br/>
+- 🌐 [My Portfolio](https://alvaro-gmez.github.io/Porfolio-AlvaroGomez/)
 
 
 ---
