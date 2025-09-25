@@ -30,7 +30,7 @@ Take a look at my portfolio to learn more about my work
 
 #### - Gestión de servicios - Vitaly
 <p>
-  Web platform for the management of, developed as a Final Degree Project at the company Vitaly.
+  Web platform for the management of, developed as a Final Degree Project at the company Vitaly.<br>
   🛠️ Tech Stack: Angular, Typescript, Bootstrap, Spring Boot, MySQL
 </p>
 
@@ -38,7 +38,7 @@ Take a look at my portfolio to learn more about my work
 
 #### - Gestión de Formaciones - Escuela Virgen Guadalupe
 <p>
-  Web application for managing educator training in an educational center, developed as a final degree project.
+  Web application for managing educator training in an educational center, developed as a final degree project.<br>
   🛠️ Tech Stack: Angular, Bootstrap, PHP, MySQL
 </p>
 
@@ -46,7 +46,7 @@ Take a look at my portfolio to learn more about my work
 
 #### - Shopper Mario -
 <p>
-  Arcade web game inspired by Mario Bros, developed as part of a school project.
+  Arcade web game inspired by Mario Bros, developed as part of a school project.<br>
   🛠️ Tech Stack: Angular, Bootstrap, PHP, MySQL
 </p>
 
