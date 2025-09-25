@@ -35,10 +35,10 @@ Take a look at my portfolio to learn more about my work
 
 ## 📊 GitHub Stats
 <p align="center">
-  <table align="left">
+  <table align="center">
     <tr border="none">
       <td width="60%" align="center">
-        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Alvaro-Gmez&theme=dark&show_icons=true&count_private=true" /><br></br>
+        <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Alvaro-Gmez&theme=dark&show_icons=true&count_private=true" /><br></br>
       </td>
       <td width="40%" align="center">
         <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alvaro-Gmez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
