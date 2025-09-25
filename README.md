@@ -26,9 +26,7 @@ I love creating useful solutions, experimenting with new tools, and sharing know
 
 
 ### 🌐 Frontend
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,bottstrap)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,bottstrap)](https://skillicons.dev)
 
 ### ⚙️ Backend
 <p align="left">
