@@ -62,12 +62,3 @@ Take a look at my portfolio to learn more about my work
 - 📸 Instagram: [@aalvarogoomeez](https://instagram.com/aalvarogoomeez)
 
 ---
-
-## 🌱 A little more about me
----
-When I’m not coding, I enjoy:  
-🎮 Gaming | 📚 Reading sci-fi | ☕ Coffee + code | ✈️ Exploring new places  
-
----
-
-✨ Thanks for stopping by my profile — a
