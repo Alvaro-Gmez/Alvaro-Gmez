@@ -34,7 +34,7 @@ Take a look at my portfolio to learn more about my work
 🛡️ Private project under NDA
 
 #### - Gestión de Formaciones -
-<p><span font=bold>Empresa</span>: Escuela Virgen Guadalupe</p>
+<p><span font-weight=bold>Empresa</span>: Escuela Virgen Guadalupe</p>
 
 
 [View Project](https://github.com/Alvaro-Gmez/gestion-formaciones-EVG)  
