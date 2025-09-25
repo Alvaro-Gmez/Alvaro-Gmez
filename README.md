@@ -28,24 +28,24 @@ Take a look at my portfolio to learn more about my work
 
 ### 👨🏻‍💻 Projects
 
-#### - Gestión de servicios -
-<p><span font=bold>Empresa</span>: Vitaly</p>
+#### - Gestión de servicios - Vitaly
+
 
 🛡️ Private project under NDA
 
-#### - Gestión de Formaciones -
-<p><span font-weight=bold>Empresa</span>: Escuela Virgen Guadalupe</p>
+#### - Gestión de Formaciones - Escuela Virgen Guadalupe
+<p>Web application for managing educator training in an educational center, developed as a final degree project.</p>
 
 
-[View Project](https://github.com/Alvaro-Gmez/gestion-formaciones-EVG)  
+🔗 [View Project](https://github.com/Alvaro-Gmez/gestion-formaciones-EVG)  
 
 #### - Shopper Mario -
 
-[View Project](https://github.com/Alvaro-Gmez/ABP_Shopper_Mario)  
+🔗 [View Project](https://github.com/Alvaro-Gmez/ABP_Shopper_Mario)  
 
 #### - Gestión reservas de libros -
 
-[View Project](https://github.com/Alvaro-Gmez/ABP_Reservas_Libros)  
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) [View Project](https://github.com/Alvaro-Gmez/ABP_Reservas_Libros)  
 
 ---
 
