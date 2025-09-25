@@ -23,6 +23,7 @@ I love creating useful solutions, experimenting with new tools, and sharing know
 
 ## 🛠️ Tech Stack
 ---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### 🌐 Frontend
 <p align="left">
