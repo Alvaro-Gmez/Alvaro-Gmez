@@ -29,23 +29,22 @@ Take a look at my portfolio to learn more about my work
 ### 👨🏻‍💻 Projects
 
 #### - Gestión de servicios - Vitaly
-
+<p>Web platform for the management of, developed as a Final Degree Project at the company Vitaly.</p>
+🛠️ Tech Stack: Angular, Typescript, Bootstrap, Spring Boot, MySQL
 
 🛡️ Private project under NDA
 
 #### - Gestión de Formaciones - Escuela Virgen Guadalupe
 <p>Web application for managing educator training in an educational center, developed as a final degree project.</p>
-
+🛠️ Tech Stack: Angular, Bootstrap, PHP, MySQL
 
 🔗 [View Project](https://github.com/Alvaro-Gmez/gestion-formaciones-EVG)  
 
 #### - Shopper Mario -
+<p>Arcade web game inspired by Mario Bros, developed as part of a school project.</p>
+🛠️ Tech Stack: Angular, Bootstrap, PHP, MySQL
 
 🔗 [View Project](https://github.com/Alvaro-Gmez/ABP_Shopper_Mario)  
-
-#### - Gestión reservas de libros -
-
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) [View Project](https://github.com/Alvaro-Gmez/ABP_Reservas_Libros)  
 
 ---
 
