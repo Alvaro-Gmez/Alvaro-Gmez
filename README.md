@@ -29,11 +29,13 @@ Take a look at my portfolio to learn more about my work
 ### 👨🏻‍💻 Projects
 
 #### - Gestión de servicios -
-<p><span >Empresa</span>: Vitaly</p>
+<p><span font=bold>Empresa</span>: Vitaly</p>
 
 🛡️ Private project under NDA
 
-#### - Gestión de Formaciones - Escuela Virgen de Guadalupe
+#### - Gestión de Formaciones -
+<p><span font=bold>Empresa</span>: Escuela Virgen Guadalupe</p>
+
 
 [View Project](https://github.com/Alvaro-Gmez/gestion-formaciones-EVG)  
 
