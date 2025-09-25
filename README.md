@@ -4,7 +4,7 @@ I'm a Higher Technician in Web Application Development passionate about turning 
 
 🚀 I’m currently focused on Angular and Spring Boot, building full-stack applications while continuously expanding my skills, exploring new tools, and combining creativity with technology to deliver impactful projects.
 
-📫 Reach me at: [alvarogd548@gmail.com](mailto:alvarogd548@gmail.com)
+📫 Reach me at: [gomezdelgadoalvaro04@gmail.com](mailto:gomezdelgadoalvaro04@gmail.com)
 
 ## 📂 Portfolio
 
@@ -57,9 +57,9 @@ Take a look at my portfolio to learn more about my work
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 📧 Email: [youremail@domain.com](mailto:youremail@domain.com)  
-- 📸 Instagram: [@yourusername](https://instagram.com/yourusername) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+- 💼 LinkedIn: [linkedin.com/in/alvarogmez](https://linkedin.com/in/alvarogmez)  
+- 📧 Email: [gomezdelgadoalvaro04@gmail.com](mailto:gomezdelgadoalvaro04@gmail.com)  
+- 📸 Instagram: [@aalvarogoomeez](https://instagram.com/aalvarogoomeez)
 
 ---
 
