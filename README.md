@@ -1,25 +1,25 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 Hi there, I'm [Your Name]
 
-Bienvenido a mi espacio en GitHub 🚀  
-Soy desarrollador apasionado por la tecnología, el aprendizaje continuo y la creación de proyectos que mezclan creatividad con código.  
-Me gusta construir soluciones útiles, experimentar con nuevas herramientas y compartir conocimiento con la comunidad.  
+Welcome to my GitHub profile 🚀  
+I'm a developer passionate about technology, continuous learning, and building projects that mix creativity with code.  
+I love creating useful solutions, experimenting with new tools, and sharing knowledge with the community.  
 
 ---
 
-## 📂 Portafolio
-Algunos de mis proyectos destacados:
+## 📂 Portfolio
+Some highlighted projects:
 
-- 🔗 [Proyecto 1](https://github.com/tuusuario/proyecto1) — Breve descripción del proyecto.
-- 🔗 [Proyecto 2](https://github.com/tuusuario/proyecto2) — Breve descripción del proyecto.
-- 🔗 [Proyecto 3](https://github.com/tuusuario/proyecto3) — Breve descripción del proyecto.
+- 🔗 [Project 1](https://github.com/yourusername/project1) — Short description of the project.  
+- 🔗 [Project 2](https://github.com/yourusername/project2) — Short description of the project.  
+- 🔗 [Project 3](https://github.com/yourusername/project3) — Short description of the project.  
 
-> Puedes ver más en la pestaña de repositorios de mi perfil.
+> You can find more in the repositories tab of my profile.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Lenguajes y Frameworks
+### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,12 +27,12 @@ Algunos de mis proyectos destacados:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Bases de datos
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,39 +40,39 @@ Algunos de mis proyectos destacados:
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 🔭 Actualmente estoy...
-- Aprendiendo **[tecnología que estés estudiando ahora]**
-- Construyendo **[nombre de tu proyecto actual]**
-- Explorando **[tema interesante: IA, Web3, Rust...]**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
 
 ---
 
-## 🏆 Logros y Contribuciones
-- ✨ Contribuciones en proyectos open source  
-- 🏅 Participación en hackathons / retos de programación  
-- 📜 Certificaciones relevantes (ejemplo: AWS, Google Cloud, etc.)
+## 🔭 Currently working on...
+- Learning **[technology you’re studying right now]**  
+- Building **[your current project name]**  
+- Exploring **[interesting area: AI, Web3, Rust...]**
 
 ---
 
-## 📫 Contacto
-- 🌐 Portafolio web: [tu-dominio.com](https://tu-dominio.com)  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 📧 Email: [tuemail@dominio.com](mailto:tuemail@dominio.com)  
+## 🏆 Achievements & Contributions
+- ✨ Contributions to open source projects  
+- 🏅 Participation in hackathons / coding challenges  
+- 📜 Relevant certifications (AWS, Google Cloud, etc.)
 
 ---
 
-## 🌱 Un poco más sobre mí
-Cuando no estoy programando, me gusta:  
-🎮 Jugar videojuegos | 📚 Leer ciencia ficción | ☕ Café + código | ✈️ Explorar lugares nuevos  
+## 📫 Contact
+- 🌐 Portfolio website: [your-domain.com](https://your-domain.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 📧 Email: [youremail@domain.com](mailto:youremail@domain.com)  
 
 ---
 
-✨ Gracias por visitar mi perfil, ¡siempre abierto a colaborar en proyectos interesantes!
+## 🌱 A little more about me
+When I’m not coding, I enjoy:  
+🎮 Gaming | 📚 Reading sci-fi | ☕ Coffee + code | ✈️ Exploring new places  
+
+---
+
+✨ Thanks for stopping by my profile — always open to collaborating on exciting projects!
