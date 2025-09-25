@@ -27,7 +27,7 @@ Take a look at my portfolio to learn more about my work<br/>
 
 ---
 
-### 👨🏻‍💻 Projects
+## 👨🏻‍💻 Projects
 
 #### - Gestión de servicios - Vitaly
 <p>
