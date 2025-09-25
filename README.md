@@ -26,10 +26,19 @@ Take a look at my portfolio to learn more about my work
 
 ---
 
-### 👨🏻‍💻 Projects
-<h4>Gestión de Formaciones</h4>
-- [](https://github.com/yourusername/project1) — Short description.  
+#### 👨🏻‍💻 Projects
+<h4>- Gestión de Formaciones -</h4>
 
+[View Project](https://github.com/yourusername/project1)  
+<h4>- Shopper Mario -</h4>
+
+[View Project](https://github.com/yourusername/project1)  
+<h4>- Gestión reservas de libros -</h4>
+
+[View Project](https://github.com/yourusername/project1)  
+<h4>- Gestión de servicios - Vitaly -</h4>
+
+[View Project](https://github.com/yourusername/project1)  
 
 ---
 
