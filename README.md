@@ -34,9 +34,10 @@ Take a look at my portfolio to learn more about my work
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvaro-Gmez&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Gmez&layout=compact&theme=radical)  
+<div class="flex">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvaro-Gmez&show_icons=true&theme=radical)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Gmez&layout=compact&theme=radical)  
+</div>
 
 ---
 
